@@ -242,7 +242,7 @@ def make_parser():
     parser.add_argument('-i',
                         '--image_dir',
                         type=str,
-                        default='/home/pi/project/datasets/coco-2017/validation/data/',
+                        default='/home/pi/rp4objectdetection/datasets/coco-2017/validation/data/',
                         help="image directory for inference"
                         )
     return parser

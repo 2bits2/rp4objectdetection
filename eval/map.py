@@ -14,7 +14,7 @@ from pprint import pprint
 # from os import listdir
 # get the path/directory
 
-projectDir='/home/pi/project/'
+projectDir='/home/pi/rp4objectdetection/'
 dataDir=f'{projectDir}datasets/coco-2017/'
 dataType='val2017'
 annFile='{}/raw/instances_{}.json'.format(dataDir,dataType)

@@ -8,7 +8,7 @@ int main(int argc, char** argv)
 {
   // specify the directory that
   // contains all the images
-  const char* dirname = "/home/pi/project/datasets/coco-2017/validation/data/";
+  const char* dirname = "/home/pi/rp4objectdetection/datasets/coco-2017/validation/data/";
 
   // these are the models we
   // want to test

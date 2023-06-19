@@ -78,7 +78,7 @@ def measureYoloModel(modelname, imageDir):
 if __name__ == '__main__':
     # I want to validate the object detection models
     # with the coco images
-    imageDir = '/home/pi/project/datasets/coco-2017/validation/data/'
+    imageDir = '/home/pi/rp4objectdetection/datasets/coco-2017/validation/data/'
     modelname = "yolov8n.pt"
     measurements = measureYoloModel(modelname, imageDir)
 

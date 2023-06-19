@@ -1,3 +1,11 @@
+# DAMO-YOLO
+Neben der Offiziellen Installation für DAMO-YOLO,
+wurde im tools Ordner, basierend auf "demo.py" 
+ein skript namens "tb\_damoyolo\_detect.py" geschrieben.
+Es wird ähnlich benutzt wie demo.py , allerdings schreibt es die
+Messungen mit Inferenz- und Pre-und Postprocessingzeiten in eine "measurement\_damoyolo.json".
+
+
 English | [简体中文](README_cn.md)
 
 <div align="center"><img src="assets/logo.png" width="1500">

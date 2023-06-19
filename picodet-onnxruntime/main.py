@@ -258,7 +258,7 @@ if __name__=='__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument(
         "--imgdir", type=str,
-        default="/home/pi/project/datasets/coco-2017/validation/data/",
+        default="/home/pi/rp4objectdetection/datasets/coco-2017/validation/data/",
         help="image path"
     )
     parser.add_argument(
