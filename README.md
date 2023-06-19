@@ -44,9 +44,10 @@ https://github.com/hpc203/picodet-onnxruntime
 und die main.py wurde nach den obigen Anforderung modifiziert.
 Standardmäßig wird das Modell picodet\_s\_319\_coco.onnx ausgewertet.
 
-# yolov8
+## yolov8
 
-Die Installation benötigte leichte Änderungen in der requirements.txt für torch und
+Die Installation nach https://docs.ultralytics.com/
+benötigte leichte Änderungen in der requirements.txt für torch und
 torchvision. Ansonste konnte die ultralytics gut mit pip installiert werden.
 
 Im yolov8 Modell ist tb\_yolo\_detect.py für die Ergebnisse der Objekterkennung
@@ -55,4 +56,7 @@ zuständig und schreibt eine entsprechende measurement Datei.
 In der benchmark.py wurden ursprünglich viele unterschiedliche modelle 
 in einem array ptmodelnames angegeben und mit der ultralytics benchmark funktion
 getestet. Die Ergebnisse sind in benchmark.log festgehalten.
+
+
+
 
