@@ -1,0 +1,427 @@
+
+Benchmarks complete for yolov8n.pt on coco8.yaml at imgsz=640 (1734.08s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)
+0                 PyTorch       ✅        6.2               0.6381                  680.63
+1             TorchScript       ✅       12.4               0.6092                  951.14
+2                    ONNX       ✅       12.2               0.6092                  548.75
+3                OpenVINO       ❌       12.2                  NaN                     NaN
+4                TensorRT       ❌        0.0                  NaN                     NaN
+5                  CoreML       ❎       12.1                  NaN                     NaN
+6   TensorFlow SavedModel       ❌        0.0                  NaN                     NaN
+7     TensorFlow GraphDef       ❌        0.0                  NaN                     NaN
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN
+11           PaddlePaddle       ❌        0.0                  NaN                     NaN
+
+Benchmarks complete for yolov8n.pt on coco8.yaml at imgsz=640 (1209.21s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)
+0                 PyTorch       ✅        6.2               0.6381                  683.15
+1             TorchScript       ✅       12.4               0.6092                  951.60
+2                    ONNX       ✅       12.2               0.6092                  532.78
+3                OpenVINO       ❌       12.2                  NaN                     NaN
+4                TensorRT       ❌        0.0                  NaN                     NaN
+5                  CoreML       ❎       12.1                  NaN                     NaN
+6   TensorFlow SavedModel       ❌        0.0                  NaN                     NaN
+7     TensorFlow GraphDef       ❌        0.0                  NaN                     NaN
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN
+11           PaddlePaddle       ❌        0.0                  NaN                     NaN
+
+Benchmarks complete for yolov8n.pt on coco8.yaml at imgsz=640 (1051.64s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)
+0                 PyTorch       ✅        6.2               0.6381                  681.88
+1             TorchScript       ✅       12.4               0.6092                  951.97
+2                    ONNX       ✅       12.2               0.6092                  538.68
+3                OpenVINO       ❌       12.2                  NaN                     NaN
+4                TensorRT       ❌        0.0                  NaN                     NaN
+5                  CoreML       ❎       12.1                  NaN                     NaN
+6   TensorFlow SavedModel       ❌        0.0                  NaN                     NaN
+7     TensorFlow GraphDef       ❌        0.0                  NaN                     NaN
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN
+11           PaddlePaddle       ❌        0.0                  NaN                     NaN
+
+Benchmarks complete for yolov8n.pt on coco8.yaml at imgsz=640 (1020.28s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)
+0                 PyTorch       ✅        6.2               0.6381                  693.69
+1             TorchScript       ✅       12.4               0.6092                  957.68
+2                    ONNX       ✅       12.2               0.6092                  536.24
+3                OpenVINO       ❌       12.2                  NaN                     NaN
+4                TensorRT       ❌        0.0                  NaN                     NaN
+5                  CoreML       ❎       12.1                  NaN                     NaN
+6   TensorFlow SavedModel       ❌        0.0                  NaN                     NaN
+7     TensorFlow GraphDef       ❌        0.0                  NaN                     NaN
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN
+11           PaddlePaddle       ❌        0.0                  NaN                     NaN
+
+Benchmarks complete for yolov8n.pt on coco8.yaml at imgsz=640 (953.94s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)
+0                 PyTorch       ✅        6.2               0.6381                  708.41
+1             TorchScript       ✅       12.4               0.6092                  954.53
+2                    ONNX       ✅       12.2               0.6092                  540.14
+3                OpenVINO       ❌       12.2                  NaN                     NaN
+4                TensorRT       ❌        0.0                  NaN                     NaN
+5                  CoreML       ❎       12.1                  NaN                     NaN
+6   TensorFlow SavedModel       ❌        0.0                  NaN                     NaN
+7     TensorFlow GraphDef       ❌        0.0                  NaN                     NaN
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN
+11           PaddlePaddle       ❌        0.0                  NaN                     NaN
+
+Benchmarks complete for yolov5nu.pt on coco8.yaml at imgsz=640 (1521.15s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)
+0                 PyTorch       ✅        5.3               0.6213                  670.77
+1             TorchScript       ✅       10.5               0.6229                  942.38
+2                    ONNX       ✅       10.3               0.6229                  497.62
+3                OpenVINO       ❌       10.3                  NaN                     NaN
+4                TensorRT       ❌        0.0                  NaN                     NaN
+5                  CoreML       ❎       10.2                  NaN                     NaN
+6   TensorFlow SavedModel       ❌        0.0                  NaN                     NaN
+7     TensorFlow GraphDef       ❌        0.0                  NaN                     NaN
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN
+11           PaddlePaddle       ❌        0.0                  NaN                     NaN
+
+Benchmarks complete for yolov8n.pt on coco8.yaml at imgsz=640 (1097.63s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)
+0                 PyTorch       ✅        6.2               0.6381                  682.37
+1             TorchScript       ✅       12.4               0.6092                  951.33
+2                    ONNX       ✅       12.2               0.6092                  537.00
+3                OpenVINO       ❌       12.2                  NaN                     NaN
+4                TensorRT       ❌        0.0                  NaN                     NaN
+5                  CoreML       ❎       12.1                  NaN                     NaN
+6   TensorFlow SavedModel       ❌        0.0                  NaN                     NaN
+7     TensorFlow GraphDef       ❌        0.0                  NaN                     NaN
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN
+11           PaddlePaddle       ❌        0.0                  NaN                     NaN
+
+# tobi note: here starts the script output:
+
+
+
+
+Benchmarks complete for yolov8n.pt on coco8.yaml at imgsz=640 (1156.53s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)
+0                 PyTorch       ✅        6.2               0.6381                  687.84
+1             TorchScript       ✅       12.4               0.6092                  960.86
+2                    ONNX       ✅       12.2               0.6092                  542.67
+3                OpenVINO       ❌       12.2                  NaN                     NaN
+4                TensorRT       ❌        0.0                  NaN                     NaN
+5                  CoreML       ❎       12.1                  NaN                     NaN
+6   TensorFlow SavedModel       ❌        0.0                  NaN                     NaN
+7     TensorFlow GraphDef       ❌        0.0                  NaN                     NaN
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN
+11           PaddlePaddle       ❌        0.0                  NaN                     NaN
+
+Benchmarks complete for yolov8s.pt on coco8.yaml at imgsz=640 (1129.80s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)
+0                 PyTorch       ✅       21.5               0.6967                 1488.22
+1             TorchScript       ✅       43.0               0.7136                 1957.41
+2                    ONNX       ✅       42.8               0.7136                 1428.31
+3                OpenVINO       ❌       42.8                  NaN                     NaN
+4                TensorRT       ❌        0.0                  NaN                     NaN
+5                  CoreML       ❎       42.7                  NaN                     NaN
+6   TensorFlow SavedModel       ❌        0.0                  NaN                     NaN
+7     TensorFlow GraphDef       ❌        0.0                  NaN                     NaN
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN
+11           PaddlePaddle       ❌        0.0                  NaN                     NaN
+
+Benchmarks complete for yolov8m.pt on coco8.yaml at imgsz=640 (1346.67s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)
+0                 PyTorch       ✅       49.7                0.737                 3646.73
+1             TorchScript       ✅       99.2                0.728                 4662.83
+2                    ONNX       ✅       98.9                0.728                 3460.77
+3                OpenVINO       ❌       98.9                  NaN                     NaN
+4                TensorRT       ❌        0.0                  NaN                     NaN
+5                  CoreML       ❎       98.9                  NaN                     NaN
+6   TensorFlow SavedModel       ❌        0.0                  NaN                     NaN
+7     TensorFlow GraphDef       ❌        0.0                  NaN                     NaN
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN
+11           PaddlePaddle       ❌        0.0                  NaN                     NaN
+
+Benchmarks complete for yolov8l.pt on coco8.yaml at imgsz=640 (1831.83s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)
+0                 PyTorch       ✅       83.7               0.7769                 6718.49
+1             TorchScript       ✅      167.2               0.7551                 8268.43
+2                    ONNX       ✅      166.8               0.7551                 6606.03
+3                OpenVINO       ❌      166.8                  NaN                     NaN
+4                TensorRT       ❌        0.0                  NaN                     NaN
+5                  CoreML       ❎      166.7                  NaN                     NaN
+6   TensorFlow SavedModel       ❌        0.0                  NaN                     NaN
+7     TensorFlow GraphDef       ❌        0.0                  NaN                     NaN
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN
+11           PaddlePaddle       ❌        0.0                  NaN                     NaN
+
+Benchmarks complete for yolov8n-seg.pt on coco8-seg.yaml at imgsz=640 (1121.98s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(M)  Inference time (ms/im)
+0                 PyTorch       ✅        6.7               0.5273                  972.27
+1             TorchScript       ✅       13.4               0.4018                 1350.76
+2                    ONNX       ✅       13.2               0.4018                  721.61
+3                OpenVINO       ❌       13.2                  NaN                     NaN
+4                TensorRT       ❌        0.0                  NaN                     NaN
+5                  CoreML       ❎       13.1                  NaN                     NaN
+6   TensorFlow SavedModel       ❌        0.0                  NaN                     NaN
+7     TensorFlow GraphDef       ❌        0.0                  NaN                     NaN
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN
+11           PaddlePaddle       ❌        0.0                  NaN                     NaN
+
+Benchmarks complete for yolov8s-seg.pt on coco8-seg.yaml at imgsz=640 (1657.19s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(M)  Inference time (ms/im)
+0                 PyTorch       ✅       22.8               0.5405                 2191.50
+1             TorchScript       ✅       45.5               0.5893                 2847.24
+2                    ONNX       ✅       45.3               0.5893                 1922.46
+3                OpenVINO       ❌       45.3                  NaN                     NaN
+4                TensorRT       ❌        0.0                  NaN                     NaN
+5                  CoreML       ❎       45.2                  NaN                     NaN
+6   TensorFlow SavedModel       ❌        0.0                  NaN                     NaN
+7     TensorFlow GraphDef       ❌        0.0                  NaN                     NaN
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN
+11           PaddlePaddle       ❌        0.0                  NaN                     NaN
+
+Benchmarks complete for yolov8m-seg.pt on coco8-seg.yaml at imgsz=640 (1296.04s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(M)  Inference time (ms/im)
+0                 PyTorch       ✅       52.4               0.6157                 5002.85
+1             TorchScript       ✅      104.6               0.6211                 6633.84
+2                    ONNX       ✅      104.2               0.6211                 4418.63
+3                OpenVINO       ❌      104.2                  NaN                     NaN
+4                TensorRT       ❌        0.0                  NaN                     NaN
+5                  CoreML       ❎      104.1                  NaN                     NaN
+6   TensorFlow SavedModel       ❌        0.0                  NaN                     NaN
+7     TensorFlow GraphDef       ❌        0.0                  NaN                     NaN
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN
+11           PaddlePaddle       ❌        0.0                  NaN                     NaN
+
+Benchmarks complete for yolov8l-seg.pt on coco8-seg.yaml at imgsz=640 (1930.50s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(M)  Inference time (ms/im)
+0                 PyTorch       ✅       88.1               0.6881                 8638.92
+1             TorchScript       ✅      176.0               0.6959                10705.89
+2                    ONNX       ✅      175.6               0.6959                 8403.97
+3                OpenVINO       ❌      175.6                  NaN                     NaN
+4                TensorRT       ❌        0.0                  NaN                     NaN
+5                  CoreML       ❎      175.5                  NaN                     NaN
+6   TensorFlow SavedModel       ❌        0.0                  NaN                     NaN
+7     TensorFlow GraphDef       ❌        0.0                  NaN                     NaN
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN
+11           PaddlePaddle       ❌        0.0                  NaN                     NaN
+
+Benchmarks complete for yolov8n-pose.pt on coco8-pose.yaml at imgsz=640 (1109.65s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(P)  Inference time (ms/im)
+0                 PyTorch       ✅        6.5               0.4047                  700.79
+1             TorchScript       ✅       13.0               0.3931                 1022.97
+2                    ONNX       ✅       12.8               0.3931                  568.42
+3                OpenVINO       ❌       12.8                  NaN                     NaN
+4                TensorRT       ❌        0.0                  NaN                     NaN
+5                  CoreML       ❎       12.7                  NaN                     NaN
+6   TensorFlow SavedModel       ❌        0.0                  NaN                     NaN
+7     TensorFlow GraphDef       ❌        0.0                  NaN                     NaN
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN
+11           PaddlePaddle       ❌        0.0                  NaN                     NaN
+
+Benchmarks complete for yolov8s-pose.pt on coco8-pose.yaml at imgsz=640 (914.19s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(P)  Inference time (ms/im)
+0                 PyTorch       ✅       22.4               0.4716                 1562.65
+1             TorchScript       ✅       44.7               0.4755                 2138.02
+2                    ONNX       ✅       44.6               0.4755                 1430.42
+3                OpenVINO       ❌       44.6                  NaN                     NaN
+4                TensorRT       ❌        0.0                  NaN                     NaN
+5                  CoreML       ❎       44.5                  NaN                     NaN
+6   TensorFlow SavedModel       ❌        0.0                  NaN                     NaN
+7     TensorFlow GraphDef       ❌        0.0                  NaN                     NaN
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN
+11           PaddlePaddle       ❌        0.0                  NaN                     NaN
+
+Benchmarks complete for yolov8m-pose.pt on coco8-pose.yaml at imgsz=640 (1597.12s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(P)  Inference time (ms/im)
+0                 PyTorch       ✅       50.8               0.5018                 3510.46
+1             TorchScript       ✅      101.4               0.5415                 4816.46
+2                    ONNX       ✅      101.2               0.5415                 3467.37
+3                OpenVINO       ❌      101.2                  NaN                     NaN
+4                TensorRT       ❌        0.0                  NaN                     NaN
+5                  CoreML       ❎      101.1                  NaN                     NaN
+6   TensorFlow SavedModel       ❌        0.0                  NaN                     NaN
+7     TensorFlow GraphDef       ❌        0.0                  NaN                     NaN
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN
+11           PaddlePaddle       ❌        0.0                  NaN                     NaN
+
+Benchmarks complete for yolov8l-pose.pt on coco8-pose.yaml at imgsz=640 (1611.31s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(P)  Inference time (ms/im)
+0                 PyTorch       ✅       85.2               0.5904                 6738.62
+1             TorchScript       ✅      170.2               0.5978                 8688.20
+2                    ONNX       ✅      169.9               0.5978                 6817.97
+3                OpenVINO       ❌      169.9                  NaN                     NaN
+4                TensorRT       ❌        0.0                  NaN                     NaN
+5                  CoreML       ❎      169.8                  NaN                     NaN
+6   TensorFlow SavedModel       ❌        0.0                  NaN                     NaN
+7     TensorFlow GraphDef       ❌        0.0                  NaN                     NaN
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN
+11           PaddlePaddle       ❌        0.0                  NaN                     NaN
+
+Benchmarks complete for yolov8n-cls.pt on imagenet100 at imgsz=640 (875.72s)
+                   Format Status❔  Size (MB)  metrics/accuracy_top5  Inference time (ms/im)
+0                 PyTorch       ✅        5.3                   0.68                   63.57
+1             TorchScript       ✅       10.5                   0.14                  349.08
+2                    ONNX       ❎       10.4                    NaN                     NaN
+3                OpenVINO       ❌       10.4                    NaN                     NaN
+4                TensorRT       ❌        0.0                    NaN                     NaN
+5                  CoreML       ❎       10.4                    NaN                     NaN
+6   TensorFlow SavedModel       ❌        0.0                    NaN                     NaN
+7     TensorFlow GraphDef       ❌        0.0                    NaN                     NaN
+8         TensorFlow Lite       ❌        0.0                    NaN                     NaN
+9     TensorFlow Edge TPU       ❌        0.0                    NaN                     NaN
+10          TensorFlow.js       ❌        0.0                    NaN                     NaN
+11           PaddlePaddle       ❌        0.0                    NaN                     NaN
+
+Benchmarks complete for yolov8s-cls.pt on imagenet100 at imgsz=640 (945.98s)
+                   Format Status❔  Size (MB)  metrics/accuracy_top5  Inference time (ms/im)
+0                 PyTorch       ✅       12.2                   0.75                  133.73
+1             TorchScript       ✅       24.4                   0.16                  809.08
+2                    ONNX       ❎       24.3                    NaN                     NaN
+3                OpenVINO       ❌       24.3                    NaN                     NaN
+4                TensorRT       ❌        0.0                    NaN                     NaN
+5                  CoreML       ❎       24.3                    NaN                     NaN
+6   TensorFlow SavedModel       ❌        0.0                    NaN                     NaN
+7     TensorFlow GraphDef       ❌        0.0                    NaN                     NaN
+8         TensorFlow Lite       ❌        0.0                    NaN                     NaN
+9     TensorFlow Edge TPU       ❌        0.0                    NaN                     NaN
+10          TensorFlow.js       ❌        0.0                    NaN                     NaN
+11           PaddlePaddle       ❌        0.0                    NaN                     NaN
+
+Benchmarks complete for yolov8m-cls.pt on imagenet100 at imgsz=640 (1326.49s)
+                   Format Status❔  Size (MB)  metrics/accuracy_top5  Inference time (ms/im)
+0                 PyTorch       ✅       32.7                   0.86                  444.86
+1             TorchScript       ✅       65.2                   0.29                 2600.76
+2                    ONNX       ❎       65.0                    NaN                     NaN
+3                OpenVINO       ❌       65.0                    NaN                     NaN
+4                TensorRT       ❌        0.0                    NaN                     NaN
+5                  CoreML       ❎       65.0                    NaN                     NaN
+6   TensorFlow SavedModel       ❌        0.0                    NaN                     NaN
+7     TensorFlow GraphDef       ❌        0.0                    NaN                     NaN
+8         TensorFlow Lite       ❌        0.0                    NaN                     NaN
+9     TensorFlow Edge TPU       ❌        0.0                    NaN                     NaN
+10          TensorFlow.js       ❌        0.0                    NaN                     NaN
+11           PaddlePaddle       ❌        0.0                    NaN                     NaN
+
+Benchmarks complete for yolov8l-cls.pt on imagenet100 at imgsz=640 (1942.02s)
+                   Format Status❔  Size (MB)  metrics/accuracy_top5  Inference time (ms/im)
+0                 PyTorch       ✅       71.7                   0.86                  706.56
+1             TorchScript       ✅      143.2                   0.30                 4881.16
+2                    ONNX       ❎      143.0                    NaN                     NaN
+3                OpenVINO       ❌      143.0                    NaN                     NaN
+4                TensorRT       ❌        0.0                    NaN                     NaN
+5                  CoreML       ❎      142.9                    NaN                     NaN
+6   TensorFlow SavedModel       ❌        0.0                    NaN                     NaN
+7     TensorFlow GraphDef       ❌        0.0                    NaN                     NaN
+8         TensorFlow Lite       ❌        0.0                    NaN                     NaN
+9     TensorFlow Edge TPU       ❌        0.0                    NaN                     NaN
+10          TensorFlow.js       ❌        0.0                    NaN                     NaN
+11           PaddlePaddle       ❌        0.0                    NaN                     NaN
+
+Benchmarks complete for yolov5nu.pt on coco8.yaml at imgsz=640 (1063.29s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)
+0                 PyTorch       ✅        5.3               0.6213                  660.20
+1             TorchScript       ✅       10.5               0.6229                  938.18
+2                    ONNX       ✅       10.3               0.6229                  495.26
+3                OpenVINO       ❌       10.3                  NaN                     NaN
+4                TensorRT       ❌        0.0                  NaN                     NaN
+5                  CoreML       ❎       10.2                  NaN                     NaN
+6   TensorFlow SavedModel       ❌        0.0                  NaN                     NaN
+7     TensorFlow GraphDef       ❌        0.0                  NaN                     NaN
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN
+11           PaddlePaddle       ❌        0.0                  NaN                     NaN
+
+Benchmarks complete for yolov5su.pt on coco8.yaml at imgsz=640 (1216.52s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)
+0                 PyTorch       ✅       17.7               0.6766                 1299.41
+1             TorchScript       ✅       35.3               0.6471                 1765.08
+2                    ONNX       ✅       35.1               0.6471                 1198.33
+3                OpenVINO       ❌       35.1                  NaN                     NaN
+4                TensorRT       ❌        0.0                  NaN                     NaN
+5                  CoreML       ❎       35.0                  NaN                     NaN
+6   TensorFlow SavedModel       ❌        0.0                  NaN                     NaN
+7     TensorFlow GraphDef       ❌        0.0                  NaN                     NaN
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN
+11           PaddlePaddle       ❌        0.0                  NaN                     NaN
+
+Benchmarks complete for yolov5mu.pt on coco8.yaml at imgsz=640 (1388.16s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)
+0                 PyTorch       ✅       48.2               0.7458                 2842.85
+1             TorchScript       ✅       96.3               0.7237                 3830.12
+2                    ONNX       ✅       95.9               0.7237                 2849.04
+3                OpenVINO       ❌       95.9                  NaN                     NaN
+4                TensorRT       ❌        0.0                  NaN                     NaN
+5                  CoreML       ❎       95.8                  NaN                     NaN
+6   TensorFlow SavedModel       ❌        0.0                  NaN                     NaN
+7     TensorFlow GraphDef       ❌        0.0                  NaN                     NaN
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN
+11           PaddlePaddle       ❌        0.0                  NaN                     NaN
+
+Benchmarks complete for yolov5lu.pt on coco8.yaml at imgsz=640 (1720.50s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)
+0                 PyTorch       ✅      101.9               0.7635                 5451.90
+1             TorchScript       ✅      203.6               0.7384                 6813.26
+2                    ONNX       ✅      203.1               0.7384                 5491.08
+3                OpenVINO       ❌      203.1                  NaN                     NaN
+4                TensorRT       ❌        0.0                  NaN                     NaN
+5                  CoreML       ❎      203.0                  NaN                     NaN
+6   TensorFlow SavedModel       ❌        0.0                  NaN                     NaN
+7     TensorFlow GraphDef       ❌        0.0                  NaN                     NaN
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN
+11           PaddlePaddle       ❌        0.0                  NaN                     NaN
+
+
+
+Benchmarks complete for yolov8n.pt on coco8.yaml at imgsz=640 (1255.35s)
+                   Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)
+0                 PyTorch       ✅        6.2               0.6381                  685.09
+1             TorchScript       ✅       12.4               0.6092                  953.48
+2                    ONNX       ✅       12.2               0.6092                  540.08
+3                OpenVINO       ❌       12.2                  NaN                     NaN
+4                TensorRT       ❌        0.0                  NaN                     NaN
+5                  CoreML       ❌        0.0                  NaN                     NaN
+6   TensorFlow SavedModel       ❌        0.0                  NaN                     NaN
+7     TensorFlow GraphDef       ❌        0.0                  NaN                     NaN
+8         TensorFlow Lite       ❌        0.0                  NaN                     NaN
+9     TensorFlow Edge TPU       ❌        0.0                  NaN                     NaN
+10          TensorFlow.js       ❌        0.0                  NaN                     NaN
+11           PaddlePaddle       ❌        0.0                  NaN                     NaN
